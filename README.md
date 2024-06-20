@@ -1,3 +1,8 @@
-1. Generate content by uploading a link of an existiing youtube video link.
+● Developed an web application to generate content for
+youtube video based on similar youtube video.
 
-2. First it will convert the youtube video into an audio file by using the audio it generates a similar content with th help of open ai api.
+● By pasting an link of an existing youtube video it first converts the
+video into mp3 by using assembly ai api.
+
+● Then it generate content using the audio and openai api.
+Finally it stores the contents in Database.
